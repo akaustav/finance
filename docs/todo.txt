@@ -1,0 +1,4 @@
+1. Fix date format to be a variable instead of hard coding on the filters
+2. Generate the Calls CSV
+3. Generate the Puts CSV
+4. Accept multiple Symbols
